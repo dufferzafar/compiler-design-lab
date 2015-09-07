@@ -2,14 +2,16 @@
 
 Compiler Design Lab. 7th Semester. B. Tech.
 
-## Programs
+## List of Programs
 
 * Mealy Machine
 
 * Moore Machine
 
-* Automata
+* Input acceptance using deterministic finite automata
 
-* Regex
+* Input acceptance using non-deterministic finite automata
 
-* NFA to DFA
+* Input acceptance using basic regular expressions
+
+* Conversion of an NFA to DFA
