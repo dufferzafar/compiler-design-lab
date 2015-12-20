@@ -1,0 +1,10 @@
+01:x=a+b;
+02:b=d/2;
+03:if a<b goto 7;
+04:if a>b goto 2;
+05:a=m+2;
+06:b=a;
+07:j=m+p;
+08:if a>m goto 6;
+09:goto 10;
+10:a=b;

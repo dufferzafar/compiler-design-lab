@@ -1,0 +1,10 @@
+001:x=a+b
+002:b=d/2
+003:goto 06
+004:if a>b goto 02
+005:a=m+2
+006:b=a
+007:z=m+b
+008:if a>m goto 06
+009:goto 2
+010:a=b
